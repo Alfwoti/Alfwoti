@@ -1,0 +1,2 @@
+- I'm Alfwoti, novice C#/unity programmer
+- Working on *small* projects for unity
